@@ -104,3 +104,11 @@
 { "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
 2022-03-03T18:32:03+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
 { "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-03T19:56:12+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-03T19:56:12+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-03T19:56:12+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-03T19:56:12+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }

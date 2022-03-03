@@ -22,7 +22,7 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define( 'DB_NAME', 'testmarket' );
+define( 'DB_NAME', 'clickmarket' );
 
 /** Имя пользователя MySQL */
 define( 'DB_USER', 'root' );

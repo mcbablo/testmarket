@@ -28,7 +28,7 @@ define( 'DB_NAME', 'clickmarket' );
 define( 'DB_USER', 'root' );
 
 /** Пароль к базе данных MySQL */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', '3015130' );
 
 /** Имя сервера MySQL */
 define( 'DB_HOST', 'localhost' );
